@@ -8,8 +8,8 @@ The project demonstrates how Terraform can be used to create and
 configure AWS infrastructure instead of setting up the resources
 manually through the AWS Management Console.
 
-## 🏗️ Architecture
-![Image Alt](image_url)
+## Architecture
+![Image Alt](https://github.com/LuthiraPeiris/terraform-aws-staticwebsite/blob/5b3a3345fe18191f73db2510a3f43a43a4efd074/architecture/architecture.png)
 
 
 
