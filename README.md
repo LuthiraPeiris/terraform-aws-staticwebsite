@@ -338,6 +338,9 @@ The article covers the project step by step, including:
 -   Accessing the website
 -   Updating and destroying the infrastructure
 
+## 🎬 Demonstration
+https://www.youtube.com/watch?v=VYAyO-XUvx4
+
 ## 🎯 Project Goal
 
 The main goal of this project was to gain practical experience with
